@@ -76,5 +76,5 @@ To run this app on your local machine, follow these steps:
 You can download the APK file to test the app directly on your Android device.
 
 - **APK File**:  
-  [Download the Task Management App APK](https://github.com/your-username/your-repository-name/raw/main/apk/app-release.apk)  
+  [Download the Task Management App APK](https://github.com/kmandar015/task_manager/blob/0c62691862a187fceeed5876f700055b1aacbc08/app-release.apk)  
   
